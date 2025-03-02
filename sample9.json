@@ -1,0 +1,25 @@
+{
+    "query": "vì sao công ty này tiềm năng nhất",
+    "history": [
+        {
+            "user": "Cung cấp danh sách khách hàng tiềm năng",
+            "AI": "| **Mã số thuế**  | **Tên công ty**                             | **Ngành**       | **Query: (Tiêu chí đánh giá)**                          |\n|---------------|---------------------------------|--------------|--------------------------------------|\n| **9919518384**   | **0ZUWM ORG Universal**            | logistics    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **9174594029**   | **OQ1M4 HANOI And Partners**       | vật tư y tế  | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **1837122591**   | **UBT8LAND PARTNERS And Partners** | logistics    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **8771910996**   | **W4C0K AND PARTNERS Universal**   | xây dựng    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7614514011**   | **P5BIP CORP FAMILY**              | xây dựng    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7843088167**   | **ERT9E ORG And Partners**         | vật tư y tế  | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7780481066**   | **1Z269 CORP National**            | logistics    | Dựa trên thông tin tài khoản  |\n| **8939286714**   | **RBSLP HCM Global**               | logistics    | Dựa trên thông tin tài khoản  |\n| **3217337923**   | **QPG4E JSC FAMILY**               | vật tư y tế  | Dựa trên thông tin tài khoản  |\n| **4053872515**   | **42PSC JSC FAMILY**               | xây dựng    | Dựa trên thông tin tài khoản  |\n\n### **Trong danh sách trên, có 10 công ty tiềm năng nhất, bao gồm:**\n- **6 công ty khai thác dựa trên nguồn hóa đơn VAT** (Các công ty có số lượng và giá trị hóa đơn VAT lớn nhất)\n- **4 công ty khai thác dựa trên thông tin tài khoản** (Các tài khoản của chủ doanh nghiệp đang hoạt động và chủ doanh nghiệp thành lập công ty mới)"
+        },
+        {
+            "user": "Cung cấp thông tin ngành nghề của công ty tiềm năng nhất",
+            "AI": "Công ty tiềm năng nhất là: 0ZUWM ORG Universal và ngành nghề kinh doanh là logistics"
+        }
+    ],
+    "extracted_user_params": {
+        "company_name": ["0ZUWM ORG Universal", "0ZUWM ORG Universal"],
+        "time_start": "",
+        "time_end": "",
+        "ai_actions": ["provide_potential_company", "provide_company_info"]
+    },
+    "function": "explain_potential_reason",
+    "current_user_params": {
+        "company_name": "0ZUWM ORG Universal",
+        "time_start": "",
+        "time_end": ""
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "query": "tiêu chí đánh giá dựa trên số lượng giá trị hóa đơn và VAT là gì?",
+    "history": [
+        {
+            "user": "Cung cấp danh sách khách hàng tiềm năng",
+            "AI": "| **Mã số thuế**  | **Tên công ty**                             | **Ngành**       | **Query: (Tiêu chí đánh giá)**                          |\n|---------------|---------------------------------|--------------|--------------------------------------|\n| **9919518384**   | **0ZUWM ORG Universal**            | logistics    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **9174594029**   | **OQ1M4 HANOI And Partners**       | vật tư y tế  | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **1837122591**   | **UBT8LAND PARTNERS And Partners** | logistics    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **8771910996**   | **W4C0K AND PARTNERS Universal**   | xây dựng    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7614514011**   | **P5BIP CORP FAMILY**              | xây dựng    | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7843088167**   | **ERT9E ORG And Partners**         | vật tư y tế  | Dựa trên số lượng và giá trị hóa đơn VAT  |\n| **7780481066**   | **1Z269 CORP National**            | logistics    | Dựa trên thông tin tài khoản  |\n| **8939286714**   | **RBSLP HCM Global**               | logistics    | Dựa trên thông tin tài khoản  |\n| **3217337923**   | **QPG4E JSC FAMILY**               | vật tư y tế  | Dựa trên thông tin tài khoản  |\n| **4053872515**   | **42PSC JSC FAMILY**               | xây dựng    | Dựa trên thông tin tài khoản  |"
+        },
+        {
+            "user": "Cung cấp thông tin của công ty đầu tiên",
+            "AI": "Đây là thông tin đầy đủ về doanh nghiệp:\n- **Tên công ty**: 0ZUWM ORG Universal\n- **MST**: 9910518384\n- **Địa chỉ**: Điện Biên\n- **SĐT**: +842062935704\n- **Website**: [0zuwmorguniversal.org](http://0zuwmorguniversal.org)\n- **Email**: [0zuwmorguniversal@yahoo.com](mailto:0zuwmorguniversal@yahoo.com)\n- **Năm thành lập**: 2020-05-16\n- **Ngành nghề**: logistics"
+        },
+        {
+            "user": "so sánh báo cáo tài chính 2023 và 2022",
+            "AI": "## Dưới đây là so sánh báo cáo tài chính của công ty 0ZUWM ORG Universal giữa năm 2022 và 2023:\n\n### 1. **Tổng tài sản**:\n   - **2022**: 50,115,042,504 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 2. **Doanh thu**:\n   - **2022**: 38,693,114,906 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 3. **Lợi nhuận trước thuế**:\n   - **2022**: 4,705,966,724 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 4. **Lợi nhuận sau thuế**:\n   - **2022**: 1,519,491,282 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 5. **Tài sản ngắn hạn**:\n   - **2022**: 33,512,728,261 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 6. **Tài sản dài hạn**:\n   - **2022**: 16,602,314,243 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 7. **Nợ ngắn hạn**:\n   - **2022**: 16,735,750,851 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 8. **Nợ dài hạn**:\n   - **2022**: 19,035,000,861 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### 9. **Vốn chủ sở hữu**:\n   - **2022**: 13,068,838,931 VND  \n   - **2023**: [Dữ liệu chưa có]  \n   - **Thay đổi**: [Dữ liệu chưa có]  \n\n### **Nhận xét**:\n- Dữ liệu tài chính năm 2023 chưa có để so sánh.\n- Cần bổ sung dữ liệu để đưa ra đánh giá chính xác hơn về hiệu suất tài chính của công ty.\n"
+        }
+    ],
+    "extracted_user_params": {
+        "company_name": ["0ZUWM ORG Universal", "0ZUWM ORG Universal", "0ZUWM ORG Universal"],
+        "time_start": "2022",
+        "time_end": "2023",
+        "ai_actions": ["provide_potential_company", "provide_company_info", "compare_finance_insight"]
+    },
+    "function": "general_chat",
+    "current_user_params": {
+        "company_name": [],
+        "time_start": "",
+        "time_end": ""
+    }
+}

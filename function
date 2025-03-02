@@ -1,0 +1,13 @@
+general_chat
+provide_company_info (company_name)
+- general
+- mail
+- onwer
+- representative
+- email
+- phone
+- industry
+provide_potential_company (num_company, vat_percent=0.6, account_percent=0.4)
+explain_potential_reason (company_name)
+report_finance_insight (company_name, time)
+compare_finance_insight (company_name, time_start, time_end)

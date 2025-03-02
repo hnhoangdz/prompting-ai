@@ -1,0 +1,16 @@
+{
+    "query": "cung cấp danh sách khách hàng tiềm năng",
+    "history": [],
+    "extracted_user_params": {
+        "company_name": [],
+        "time_start": "",
+        "time_end": "",
+        "ai_actions": []
+    },
+    "function": "provide_potential_company",
+    "current_user_params": {
+        "company_name": "",
+        "time_start": "",
+        "time_end": ""
+    }
+}
